@@ -15,7 +15,7 @@ public class Driver {
              ) {
             animal.move();
             animal.makeNoise();
-            aimal.eat("Pumpkin");
+            animal.eat("Pumpkin");
         }
     }
 }
